@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/dlg.png</file>
+        <file>pic/cancel_button.png</file>
+        <file>pic/menu_button.png</file>
+        <file>pic/skip_button.png</file>
+        <file>pic/back_to_game.png</file>
+        <file>pic/exit_game.png</file>
+        <file>pic/restart.png</file>
+        <file>pic/one_player_button.png</file>
+        <file>pic/two_players_button.png</file>
+        <file>pic/guide1.png</file>
+        <file>pic/guide2.png</file>
+        <file>pic/guide_button.png</file>
+        <file>pic/warrior.jpg</file>
+        <file>pic/map.png</file>
+        <file>pic/background.png</file>
+        <file>pic/music_button_off.png</file>
+        <file>pic/music_button_on.png</file>
+        <file>pic/assassin.jpg</file>
+        <file>pic/shooter.jpg</file>
+        <file>pic/egg.png</file>
+        <file>pic/master.jpg</file>
+        <file>pic/tank.jpg</file>
+        <file>pic/guide3.png</file>
+        <file>pic/guide4.png</file>
+        <file>pic/guide5.png</file>
+        <file>pic/guide6.png</file>
+    </qresource>
+</RCC>
