@@ -18,6 +18,7 @@ GameScene::GameScene(const int gameMode, QWidget* parent)
     m_mouseCellx=0; m_mouseCelly=0;
     m_gameState = BEGIN;
     m_game_number = 1;
+    m_characterNum = 10;
     for(int i=0; i<m_characterNum; i++)
         m_character_relive[i]=-1;
     
